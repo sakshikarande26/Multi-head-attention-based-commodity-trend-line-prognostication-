@@ -27,4 +27,4 @@ Run the provided Jupyter Notebook (`model.ipynb`) in Google Colab. Ensure your g
 
 ---
 
-Happy forecasting! 📈✨
+©2025 Tej More, Sakshi Karand, Raunak Joshi. All rights reserved
